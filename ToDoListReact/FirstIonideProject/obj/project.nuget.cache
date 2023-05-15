@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OOnk4yAgy9VblJU3+/DncZza9CYt25pgeqGqjW4hMvXzBLxVk4eVy1unncnIG0wIuNwJDpMyLs/jYpsc/QdgAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Documents\\Adina\\פרקטיקוד\\TodoList-main\\ToDoListReact\\FirstIonideProject\\FirstIonideProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
